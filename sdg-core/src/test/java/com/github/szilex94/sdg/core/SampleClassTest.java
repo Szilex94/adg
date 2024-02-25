@@ -1,4 +1,4 @@
-package com.github.szilex94.adg.core;
+package com.github.szilex94.sdg.core;
 
 import org.junit.jupiter.api.Test;
 
